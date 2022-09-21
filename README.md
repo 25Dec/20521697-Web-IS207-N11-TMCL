@@ -7,5 +7,5 @@ Exercise 1 bao gồm các branch:
  
  Exercise 2 nằm ở branch Exercise2: gồm các nội dung "code theo mẫu" và "thay đổi mẫu trên bằng thông tin cá nhân"
  
- Exercise 3 bao gồm: "add the GENERAL NOTICE section of daa.uit.edu.vn to index-2.html"
+ Exercise 3 nằm ở branch Exercise3: "add the GENERAL NOTICE section of daa.uit.edu.vn to index-2.html"
 
