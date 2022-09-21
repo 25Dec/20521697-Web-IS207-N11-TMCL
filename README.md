@@ -1,6 +1,6 @@
 # 20521697-Web-IS207-N11-TMCL
 
-Exercise 1 bao gồm:
+Exercise 1 bao gồm các branch:
   - Basic-List
   - Table
   - Form
